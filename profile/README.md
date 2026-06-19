@@ -27,7 +27,7 @@ The <a href="#fontExplorerX">font activation and deactivation system</a> is the 
 The <a href="#fontExplorerX">font preview system</a> renders any font in the library at any size with custom sample text — visually comparing fonts before choosing one for a project, identifying fonts by their visual characteristics, and browsing the library as a visual catalog rather than an alphabetical list of names. The <a href="#fontExplorerX">type classification system</a> organizes fonts by category — serif, sans-serif, script, display, monospace, symbol — using the classification metadata embedded in font files and augmented by FontExplorer X's own classification tools.</p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/330048/m/fontexplorer-x-pro-screenshot.png?v=1646234771" alt="FontExplorer X screenshot"/>
+  <img src="https://macx.ws/uploads/posts/2017-10/1507389339_fontexplorer_01.jpg" alt="FontExplorer X screenshot"/>
 </p>
 
 <a href="#fontExplorerX">Font conflict detection</a> identifies fonts with conflicting names or metrics — the technical conflicts that cause unexpected font substitution, incorrect rendering, and document reflow when multiple fonts claim the same name. FontExplorer X detects these conflicts before they cause problems in design documents. <a href="#fontExplorerX">Adobe Creative Suite auto-activation</a> detects when a document requires a specific font that isn't currently active and activates it automatically — opening an InDesign or Illustrator document that uses an inactive font activates that font without manual intervention, preventing the missing-font substitution that breaks document appearance.
